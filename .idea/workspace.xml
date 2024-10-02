@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d7167e6-1093-4dd5-b680-9578566bac61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pages/function/history.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/function/history.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/main/subpage/test.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/main/subpage/test.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappchooselocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniapperror.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappes6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappopenlocation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniapppicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappquill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappquillimageresize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappscan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappsuccess.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/__uniappview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-config-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/app-view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/components/set-list/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/app-sub-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/backtop/backtop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/button/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/cell/cell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/checkbox/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/divider/divider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/empty/empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/gap/gap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/grid/grid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/grid/grid.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/icon/icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/image/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/line/line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/link/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/loading-icon/loading-icon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/loading-page/loading-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/overlay/overlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/popup/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/radio/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/rate/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/rate/rate.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/sticky/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/sticky/sticky.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/swipeAction/swipeAction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsA/transition/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/actionSheet/actionSheet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/alert/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/app-sub-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/badge/badge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/code/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/collapse/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/collapse/collapse.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/color/color.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/countDown/countDown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/countDown/countDown.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/countTo/countTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/countTo/countTo.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/dropdown/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/keyboard/keyboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/noticeBar/noticeBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/noticeBar/noticeBar.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/notify/notify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/numberBox/numberBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/parse/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/progress/progress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/slider/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/switch/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/tabbar/tabbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/tabbar/tabbar.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/tag/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/toast/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/upload/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsB/upload/upload.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/album/album.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/album/album.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/app-sub-service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/avatar/avatar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/calendar/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/codeInput/codeInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/datetimePicker/datetimePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/datetimePicker/datetimePicker.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/form/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/form/form.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/indexList/indexList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/indexList/indexList.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/input/input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/layout/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/layout/layout.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/list/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/loadmore/loadmore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/modal/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/navbar/navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/noNetwork/noNetwork.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/noNetwork/noNetwork.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/picker/picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/picker/picker.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/readMore/readMore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/readMore/readMore.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/scrollList/scrollList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/scrollList/scrollList.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/skeleton/skeleton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/skeleton/skeleton.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/subsection/subsection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/swiper/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/table/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/table/table.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/tabs/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/tabs/tabs.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/text/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/componentsC/textarea/textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon-edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon-letter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon_notsolved_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon_notsolved_sel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon_solved_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/pages/main/common/icon_solved_sel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/app-plus/mp-html/js/handler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/app-plus/mp-html/js/uni.webview.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/app-plus/mp-html/local.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/demo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/js/touch-emulator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/common/uni-ui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/hm-balance-card/images/img_25821_0_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/hm-balance-card/images/img_25821_0_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/hm-balance-card/images/img_25821_0_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/history.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/index-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/index.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/msg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/record.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/resume.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/resume1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/resume2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/telephone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/upload-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/upload-func.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/user-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/user-fill2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon/video.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/icon_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/Clipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/bottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/dengji.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/di.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/flower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/follow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/id.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/member.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/money.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/my.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/newsWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/peo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/peo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/peo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/pic14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/playWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/shield.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/squareWhite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/tx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/vip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/vip01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/vip02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/img/personal/vip03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/card.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/card2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/card3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/card4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/detection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/detection1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/finish.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/open.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/power.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/record.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/security.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/security1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/security2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/upload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/lottit/upload1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/cl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/op.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/ty0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/shilu-login/ty1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/upload-icon/icon_close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/upload-icon/icon_file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/upload-icon/icon_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/upload-icon/icon_upload.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/upload-icon/icon_video.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/common/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/common/gray-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/common/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/component.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/component_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/js_bak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/js_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/template.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/static/uview/example/template_select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-akira.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-bubble.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-nasa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-nyancat.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles-snow.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/aki-particles/static/aki-particles/particles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/qiun-data-charts/static/app-plus/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/uni-animation-view/static/lottie.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/uni_modules/uni-icons/components/uni-icons/uni.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/view.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/build/app-plus/view.umd.min.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2cX7bLqWecNCEBju7ytjYmdlXXn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "D:/AndroidApp/app-demo",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d7167e6-1093-4dd5-b680-9578566bac61" name="Changes" comment="" />
+      <created>1708246139684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708246139684</updated>
+    </task>
+    <servers />
+  </component>
+</project>

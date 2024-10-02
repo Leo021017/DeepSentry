@@ -1,0 +1,17 @@
+{
+    "id": "chenchuang-heatMapGD",
+    "name": "heatMapGD",
+    "displayName": "heatMapGD",
+    "version": "1.0",
+    "description": "实现广东省热力地图功能，可以选中各地市",
+    "keywords": [
+        "热力图",
+        "地市选择"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

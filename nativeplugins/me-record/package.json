@@ -1,0 +1,18 @@
+{
+	"name": "【android录屏】支持录屏录制声音,动态禁止和允许录屏",
+	"id": "me-record",
+	"version": "1.0.0",
+	"description": "android录屏原生插件, 可配置是否录制声音, 支持动态禁止和允许录屏, 录屏文件自动保存到相册",
+	"_dp_type": "nativeplugin",
+	"_dp_nativeplugin": {
+		"android": {
+			"minSdkVersion": "21",
+			"integrateType": "aar",
+			"plugins": [{
+				"type": "module",
+				"name": "me-record",
+				"class": "com.me.record.RecordModule"
+			}]
+		}
+	}
+}

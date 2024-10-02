@@ -1,0 +1,16 @@
+{
+    "id": "yc-grid",
+    "name": "四宫格",
+    "displayName": "四宫格",
+    "version": "1.0.0",
+    "description": "四宫格  点击宫格会出现放大动画",
+    "keywords": [
+        "宫格，动画"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

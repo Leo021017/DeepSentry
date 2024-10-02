@@ -1,0 +1,43 @@
+<template>
+	<view>
+		<u-tabbar
+			:value="current?current:0"
+			@change="tabbarChange"
+			:fixed="true"
+			:placeholder="false"
+			:safeAreaInsetBottom="true"
+			activeColor="#dd524d"
+		>
+			<u-tabbar-item text="首页" icon="../../static/icon/index.svg"></u-tabbar-item>
+			<u-tabbar-item text="文件上传" icon="../../static/icon/upload.svg"></u-tabbar-item>
+			<u-tabbar-item text="我的" icon="../../static/icon/resume.svg" ></u-tabbar-item>
+		</u-tabbar>
+	</view>
+</template>
+
+<script>
+	export default {
+		props:{
+			current:Number
+		},
+		data() {
+			return {
+				list: [{path: "pages/main/index/index"},
+				{path: "pages/main/upload/upload"},
+				{path: 'pages/main/resume/resume'}]
+			};
+		},
+		methods:{
+			tabbarChange(e) {
+				uni.switchTab({
+					url: '/'+this.list[e].path
+				})
+			}
+		}
+	}
+</script>
+
+<style lang="scss">
+
+</style>
+

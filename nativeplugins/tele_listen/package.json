@@ -1,0 +1,18 @@
+{
+	"name": "tele_listen",
+	"id": "tele_listen",
+	"version": "1.0.0",
+	"description": "监听电话状态",
+	"_dp_type": "nativeplugin",
+	"_dp_nativeplugin": {
+		"android": {
+			"minSdkVersion": "21",
+			"integrateType": "aar",
+			"plugins": [{
+				"type": "module",
+				"name": "tele_listen",
+				"class": "com.example.tele.listen.Test"
+			}]
+		}
+	}
+}

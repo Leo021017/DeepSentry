@@ -1,0 +1,53 @@
+<template>
+	<div>
+		<u-grid
+			border
+			align="center"
+			customStyle="margin-top: 20px;margin-bottom: 20"
+		>
+			<u-grid-item @click="start">
+				<view class="u-grid-slot">
+					<view class="u-grid-slot__circle">
+						<text class="u-grid-slot__circle__text">开始</text>
+					</view>
+				</view>
+			</u-grid-item>
+		</u-grid>
+	</div>
+</template>
+
+<script>
+	export default {
+		
+	}
+</script>
+
+<style lang="scss">
+	.u-demo-block__content {
+		flex-direction: row;
+		flex-wrap: wrap;
+		align-items: center;
+	}
+
+	.u-grid-slot {
+		border-radius: 200px;
+		border-color: #dbfbdb;
+		border-width: 2px;
+		@include flex;
+
+		&__circle {
+			width: 250px;
+			height: 250px;
+			background-color: #dbfbdb;
+			border-radius: 100px;
+			justify-content: center;
+			align-items: center;
+			margin: 2px;
+
+			&__text {
+				color: rgb(25, 190, 107);
+				font-size: 13px;
+			}
+		}
+	}
+</style>
